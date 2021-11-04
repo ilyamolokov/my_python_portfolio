@@ -52,5 +52,5 @@
   
   ```python
       data = pd.DataFrame(data=final_result)
-      data.to_csv("final result.csv", index=False)
+      data.to_csv("superjob final result.csv", index=False)
   ```
